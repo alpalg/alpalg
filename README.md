@@ -23,10 +23,10 @@
   paulprokhorenko@gmail.com
   
   I have a lot of mails recently :sweat_smile:. So, to be sure you reached me, please add tags:
-    - paulprokhorenko+gitdiscussion@gmail.com -- For discussions
-    - paulprokhorenko+gitrecruitment@gmail.com -- For hmm, you know :laughing:
-    - paulprokhorenko+gitcollaboration@gmail.com -- For collaboration purposes
-    - paulprokhorenko+git@gmail.com -- For any other reasons
+   - paulprokhorenko+gitdiscussion@gmail.com -- For discussions
+   - paulprokhorenko+gitrecruitment@gmail.com -- For hmm, you know :laughing:
+   - paulprokhorenko+gitcollaboration@gmail.com -- For collaboration purposes
+   - paulprokhorenko+git@gmail.com -- For any other reasons
 
 <!---
 alpalg/alpalg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
