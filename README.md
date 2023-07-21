@@ -7,7 +7,7 @@
   
 # Some my recent thougths.
   - What do you think, is it possible to have something like Orca language but for general purposes?
-  - Are array languages underestimated or just very specific? Why we don't have such as a part of other languages, but maybe w/o glyphs?
+
   Please reach me out with "+gitdiscussion" email tag if you interested to talk about topics above.
 
 # 🌱 I’m currently learning:
@@ -15,7 +15,7 @@
   - Activele learning Rust language, just like it.
 
 # 💞️ I’m looking to collaborate on
-  - Custom VM with suport of GUI
+  - Custom VM with support of GUI
   - Programming languages which idea somewhere in the middle between functional language and array language.
 
 
