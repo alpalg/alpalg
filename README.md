@@ -1,22 +1,19 @@
 # 👋 Hi, I’m Pavlo 
 #  👀 I’m interested in:
-  - Data related techologies
-  - Python for fast prototyping and automatisation of routine work
-  - Rust for more solid and reliable things
-  - Functional languages (Haskell, Scala, Elixir)
+  - Data engineering
+  - Pythoon, Rust, Scala, Haskell
   
 # Some my recent thougths.
-  - What do you think, is it possible to have something like Orca language but for general purposes?
+  - SQLite, Turso for zero networking(DB installed to virtual server along with app itself) may be quite good idea for some cases
 
   Please reach me out with "+gitdiscussion" email tag if you interested to talk about topics above.
 
 # 🌱 I’m currently learning:
-  - I'm going to excellence my knowledge of AWS, think about certification.
-  - Activele learning Rust language, just like it.
+  - Data architecture and how to make data architecture to meet client needs
 
 # 💞️ I’m looking to collaborate on
-  - Custom VM with support of GUI
-  - Programming languages which idea somewhere in the middle between functional language and array language.
+  - Projects that use Spark
+  - Project in Rust (would be great if somehow related to big data)
 
 
 # 📫 How to reach me:
@@ -24,7 +21,7 @@
   
   I have a lot of mails recently :sweat_smile:. So, to be sure you reached me, please add tags:
    - paulprokhorenko+gitdiscussion@gmail.com -- For discussions
-   - paulprokhorenko+gitrecruitment@gmail.com -- For hmm, you know :laughing:
+   - paulprokhorenko+gitrecruitment@gmail.com -- For recruitment
    - paulprokhorenko+gitcollaboration@gmail.com -- For collaboration purposes
    - paulprokhorenko+git@gmail.com -- For any other reasons
 
