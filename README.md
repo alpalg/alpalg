@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pavlo 
 #  👀 I’m interested in:
   - Data engineering
-  - Pythoon, Rust, Scala, Haskell
+  - Python, Rust, Scala, Haskell
   
 # Some my recent thougths.
   - SQLite, Turso for zero networking(DB installed to virtual server along with app itself) may be quite good idea for some cases
